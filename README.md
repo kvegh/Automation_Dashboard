@@ -14,3 +14,5 @@ analytics view shows a spread of automation activity.
 
 Job templates are tagged for grouping in Automation Analytics — see
 `utils/tag_jts.yml` in the `aap_autodeploy_configascode` repository.
+
+TODO: automate all the Dashboard Setup in AAP
